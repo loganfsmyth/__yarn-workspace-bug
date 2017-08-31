@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "private": true,
+  "dependencies": {
+    "babel-cli": "7.0.0-alpha.18",
+    "babel-core": "7.0.0-alpha.18"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

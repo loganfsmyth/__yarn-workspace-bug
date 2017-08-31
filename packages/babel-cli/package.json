@@ -1,0 +1,7 @@
+{
+    "name": "babel-cli",
+    "version": "7.0.0-alpha.19",
+    "dependencies": {
+        "babel-core": "7.0.0-alpha.19"
+    }
+}
